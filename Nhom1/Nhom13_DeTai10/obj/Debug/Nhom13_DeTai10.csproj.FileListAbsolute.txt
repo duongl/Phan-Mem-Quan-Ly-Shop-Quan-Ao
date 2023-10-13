@@ -1,0 +1,60 @@
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe.config
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.pdb
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\DTO.dll
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\DTO.pdb
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csprojResolveAssemblyReference.cache
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmAdmin.resources
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmLogin.resources
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmQuanLy.resources
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.GameCaro.resources
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.Properties.Resources.resources
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csproj.GenerateResource.Cache
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.exe
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.pdb
+D:\desktop\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmHoaDon.resources
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe.config
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.exe
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.pdb
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.pdb
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmAdmin.resources
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmLogin.resources
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmQuanLy.resources
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.GameCaro.resources
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmHoaDon.resources
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nhom13_DeTai10\Đồ án\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csproj.GenerateResource.Cache
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe.config
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.exe
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.pdb
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.pdb
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\DTO.dll
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\bin\Debug\DTO.pdb
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csprojResolveAssemblyReference.cache
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmAdmin.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmLogin.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmQuanLy.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.GameCaro.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmHoaDon.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.Properties.Resources.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom13_DeTai10\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csproj.GenerateResource.Cache
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe.config
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.exe
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.pdb
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.exe
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\bin\Debug\Nhom13_DeTai10.pdb
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\bin\Debug\DTO.dll
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\bin\Debug\DTO.pdb
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csprojResolveAssemblyReference.cache
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmAdmin.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmLogin.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmQuanLy.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.GameCaro.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.frmHoaDon.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.Properties.Resources.resources
+C:\Users\lethu\Downloads\Nhập môn CNPM Đồ Án\final\Nhom1\Nhom13_DeTai10\obj\Debug\Nhom13_DeTai10.csproj.GenerateResource.Cache
